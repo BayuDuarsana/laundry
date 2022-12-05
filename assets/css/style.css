@@ -1,0 +1,368 @@
+.bg-navbar {
+	background-image: linear-gradient(#054a43, #4d948d);
+}
+
+.logo {
+	border-radius: 2em;
+}
+
+.slider {
+	width: 1350px;
+	height: 550px;
+	opacity: 80%;
+}
+
+.btn-slider {
+	background-image: linear-gradient(#054a43, #4d948d);
+	width: 50px;
+	height: 50px;
+	border-radius: 50px;
+	margin-top: 20%;
+	margin-left: 3%;
+	margin-right: 3%;
+}
+
+.bg-caption {
+	background-color: black;
+	opacity: 0.7;
+	border-radius: 40px;
+	box-shadow: 5px 10px #5c635e;
+}
+
+p {
+	font-size: 12px;
+	color: gold;
+}
+
+h5 {
+	font-size: 30px;
+	font-family: sans-serif;
+}
+
+.nav-item {
+	margin-right: 8px;
+	margin-left: 8px;
+}
+.nav-link {
+	font-family: sans-serif;
+}
+
+.motto {
+	font-style: italic;
+	font-size: 16px;
+}
+
+.set-image {
+	width: 350px;
+	height: 250px;
+	border-radius: 35px;
+	margin-top: 75px;
+	box-shadow: 15px 15px #5c635e;
+}
+
+.col-md-8 h5 {
+	color: #054a43;
+	margin-top: 75px;
+	margin-left: 30px;
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.col-md-8 p {
+	color: #8a8888;
+	margin-left: 30px;
+	font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+	font-size: 14px;
+}
+
+.kinerja-gambar {
+	width: 250px;
+	height: 200px;
+}
+
+.laundry-content {
+	float: left;
+}
+
+.express-content {
+	float: left;
+	margin-left: 120px;
+}
+
+.delivery-content {
+	float: left;
+	margin-left: 120px;
+}
+
+.kinerja h5 {
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+	color: #054a43;
+	margin-bottom: 70px;
+	margin-top: 70px;
+}
+
+.kinerja p {
+	font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+	font-size: 14px;
+	color: #8a8888;
+	text-align: justify;
+}
+
+.row-paket {
+	margin-top: 70px;
+	margin-bottom: 70px;
+}
+
+.paket h5 {
+	text-align: end;
+}
+
+.paket p {
+	text-align: end;
+}
+
+.row-paket p {
+	font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+	font-size: 14px;
+	color: #8a8888;
+}
+
+.row-paket h5 {
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+	color: #054a43;
+}
+
+.row-paket {
+	margin-top: 70px;
+}
+
+.th-warna {
+	background-color: #054a43;
+}
+
+.jdl {
+	color: aliceblue;
+}
+
+.footer {
+	height: 60px;
+	background-color: #5c635e;
+	text-align: center;
+}
+
+.font-footer {
+	color: aliceblue;
+	font-size: 14px;
+	padding-top: 10px;
+}
+
+.btn-order {
+	width: 200px;
+	height: 80px;
+	text-align: center;
+	margin-left: 650px;
+	border-radius: 40px;
+	box-shadow: 5px 8px #5c635e;
+	margin-top: 50px;
+	margin-bottom: 5px;
+	font-size: 22px;
+}
+
+.btn-kontak {
+	margin-top: 100px;
+	margin-left: 280px;
+}
+
+.form-control {
+	margin-top: 70px;
+}
+
+.btn-cek {
+	margin-top: 70px;
+}
+
+.kontak-content {
+	margin-top: 20px;
+}
+
+h6 {
+	font-style: italic;
+}
+
+.img-responsive {
+	width: 300px;
+	height: 200px;
+	margin-bottom: 20px;
+	border-radius: 10px;
+}
+
+.gallery-feed {
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+.div-gallery-feed {
+	margin-top: 70px;
+}
+
+.title-gallery-feed {
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+	color: #054a43;
+}
+
+.maps {
+	padding-top: 70px;
+}
+
+.navbar-collapseullia:hover {
+	color: #f84744;
+	transition: 0.3s;
+}
+
+@media (max-width: 412px) {
+	#info-umum {
+		text-align: center;
+		font-size: 24px;
+	}
+
+	#info-p {
+		text-align: justify;
+		padding-right: 10px;
+		font-size: 10px;
+	}
+
+	.set-image {
+		width: 250px;
+		height: 180px;
+		margin-left: 50px;
+	}
+
+	.carousel {
+		height: 350px;
+	}
+
+	.carousel-item {
+		height: 350px;
+	}
+
+	#kinerjakami {
+		text-align: center;
+		font-size: 24px;
+	}
+
+	h6 {
+		font-size: 12px;
+	}
+
+	.kinerja-gambar {
+		width: 150px;
+		height: 180px;
+		margin-left: 50px;
+	}
+
+	.service h6 {
+		text-align: center;
+		padding-right: 130px;
+	}
+
+	.service p {
+		text-align: justify;
+		font-size: 10px;
+		margin-right: 130px;
+	}
+
+	#express {
+		text-align: justify;
+		font-size: 10px;
+		margin-right: 130px;
+	}
+
+	#title-express {
+		text-align: center;
+		padding-right: 120px;
+	}
+
+	#delivery {
+		text-align: justify;
+	}
+
+	.laundry-content {
+		float: none;
+	}
+
+	.express-content {
+		float: none;
+	}
+
+	.delivery-content {
+		float: none;
+	}
+
+	#content-delivery {
+		float: none;
+	}
+
+	#content-express {
+		float: none;
+	}
+
+	#paragraf-paket {
+		text-align: justify;
+		font-size: 10px;
+	}
+
+	#judul-paket {
+		text-align: center;
+		font-size: 24px;
+	}
+
+	#table-paket {
+		font-size: 10px;
+	}
+
+	#gallery {
+		text-align: center;
+		font-size: 24px;
+	}
+
+	#gallery-img {
+		text-align: center;
+	}
+
+	#orderwa {
+		margin-left: -130%;
+		width: 20px;
+	}
+
+	#maps-location {
+		width: 385px;
+		height: 250px;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+
+	.font-footer {
+		font-size: 12px;
+	}
+
+	#table-cek {
+		width: 20px;
+		display: contents;
+		font-size: 10px;
+	}
+
+	#cek {
+		font-size: 10px;
+	}
+
+	#cek-order {
+		font-size: 10px;
+	}
+
+	#tambah-pelanggan {
+		font-size: 6px;
+	}
+
+	#content-delivery {
+		margin-left: -1%;
+	}
+}
